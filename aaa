@@ -1,0 +1,10 @@
+package fff;
+
+public class zzz {
+public static void main(String[] args) {
+	double g=1.11;
+    int v=10;
+	System.out.println(g);
+	System.out.println(v);
+}
+}
