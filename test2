@@ -1,0 +1,9 @@
+package fff;
+
+public class zzz {
+public static void main(String[] args) {
+	double d=1.11;
+    int c=10;
+	
+}
+}
